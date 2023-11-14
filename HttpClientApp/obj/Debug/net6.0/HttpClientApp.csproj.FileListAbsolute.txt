@@ -1,0 +1,14 @@
+C:\Users\Rashad\Desktop\HttpClientApp\HttpClientApp\bin\Debug\net6.0\HttpClientApp.exe
+C:\Users\Rashad\Desktop\HttpClientApp\HttpClientApp\bin\Debug\net6.0\HttpClientApp.deps.json
+C:\Users\Rashad\Desktop\HttpClientApp\HttpClientApp\bin\Debug\net6.0\HttpClientApp.runtimeconfig.json
+C:\Users\Rashad\Desktop\HttpClientApp\HttpClientApp\bin\Debug\net6.0\HttpClientApp.dll
+C:\Users\Rashad\Desktop\HttpClientApp\HttpClientApp\bin\Debug\net6.0\HttpClientApp.pdb
+C:\Users\Rashad\Desktop\HttpClientApp\HttpClientApp\obj\Debug\net6.0\HttpClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\Desktop\HttpClientApp\HttpClientApp\obj\Debug\net6.0\HttpClientApp.AssemblyInfoInputs.cache
+C:\Users\Rashad\Desktop\HttpClientApp\HttpClientApp\obj\Debug\net6.0\HttpClientApp.AssemblyInfo.cs
+C:\Users\Rashad\Desktop\HttpClientApp\HttpClientApp\obj\Debug\net6.0\HttpClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\Desktop\HttpClientApp\HttpClientApp\obj\Debug\net6.0\HttpClientApp.dll
+C:\Users\Rashad\Desktop\HttpClientApp\HttpClientApp\obj\Debug\net6.0\refint\HttpClientApp.dll
+C:\Users\Rashad\Desktop\HttpClientApp\HttpClientApp\obj\Debug\net6.0\HttpClientApp.pdb
+C:\Users\Rashad\Desktop\HttpClientApp\HttpClientApp\obj\Debug\net6.0\HttpClientApp.genruntimeconfig.cache
+C:\Users\Rashad\Desktop\HttpClientApp\HttpClientApp\obj\Debug\net6.0\ref\HttpClientApp.dll
